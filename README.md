@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h2 align='center'> <i>Hello, People's! <img src="https://media.tenor.com/images/e2898872a74729854b0d94d7d377c6ab/tenor.gif" width="30px"></h2>
-  _Hello there this is **Aditya Arikar**. A **Full Stack Web Developer**. You can see my work down below. I love to code in JavaScript (Currently an intermediate in JS 😅). I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+  Hello there this is <b>Aditya Arikar</b>. A <b>Full Stack Web Developer</b>. You can see my work down below. I love to code in JavaScript (Currently an intermediate in JS 😅). I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
@@ -23,7 +23,7 @@
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
-<table width="100">
+<table width="100" align="center">
 <tr>
   <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="80"/>
@@ -31,16 +31,16 @@
   <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/css3.png" width="80"/>
     </td>
-    <td align='center' width="190">
+    <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/javascript.png" width="80"/>
     </td>
   <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="80"/>
     </td>
-  <td align='center' width="190">
+  <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="80"/>
     </td>
-  <td align='center' width="190">
+  <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/git.png" width="80"/>
     </td>    
     <td align='center'>
