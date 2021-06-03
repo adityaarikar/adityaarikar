@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h2 align='center'> <i>Hello, People! <img src="https://media.tenor.com/images/e2898872a74729854b0d94d7d377c6ab/tenor.gif" width="30px"></h2>
-  Hello there this is <b>Aditya Arikar</b>. A <b>Full Stack Web Developer</b>. You can see my work down below. I love to code in JavaScript (Currently an intermediate in JS 😅). I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+  Hello there this is <b>Aditya Arikar</b>. A <b>Full Stack Web Developer</b>. I love to code in JavaScript (Currently an intermediate in JS 😅). I am a friendly guy you can connect with me on social media, I would love to have you in my life. 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
